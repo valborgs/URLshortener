@@ -13,3 +13,8 @@
 회사에서는 classic ASP(VB script)를 사용했기에,  
 VB script는 네이버API에서 가이드를 제공하지 않는 언어인 관계로 ASP에서 API를 호출하는 부분을 직접 작업했다.  
 파이썬은 네이버에서 제공해주는 가이드코드를 그대로 복붙하면 사용이 가능했지만 ASP로 직접 API를 호출하는 부분을 열심히 구글링과 회사 파일들을 찾아가며 구현해야 했다.
+  
+  
+  
+## 실제 화면
+![image](https://user-images.githubusercontent.com/45898059/217705552-1acfe1f1-ee70-4a6c-aa37-e858b5bebd17.png)
